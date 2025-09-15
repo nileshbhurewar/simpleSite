@@ -57,4 +57,3 @@ EXIT;
 4. DB_PORT
 5. DB_NAME
 
-6. testing
